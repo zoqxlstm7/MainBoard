@@ -13,5 +13,5 @@ C, C++, C#을 사용할 줄 알며, 유니티 3D를 이용해 1인 게임을 개
 #### [무작정 던전헤메기 - 플레이 영상](https://blog.naver.com/zoqxlstm6/221420427223)
 <img src="./Image/dunjeon-ingame.JPG" width="800px" height="600px"></img></br><br>
 #### [다크런 - 플레이 영상](https://blog.naver.com/zoqxlstm6/221420429175)
-<img src="./Image/darkrun-ingame.JPG" width="800px" height="600px"></img></br><br>
+<img src="./Image/darkrun-Ingame.JPG" width="800px" height="600px"></img>
 
