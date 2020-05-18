@@ -14,7 +14,7 @@ C, C++, C#을 사용할 줄 알며, 유니티 3D를 이용해 1인 게임을 개
 - [카메라 등록 프로그램](https://github.com/zoqxlstm7/Camera-Register): HIKVISION API와 WinForm을 활용하여 CCTV 카메라가 활성화 중인지 인터넷 브라우저를 거치지않고 빠르게 확인하는 용도로 제작
 - [알콜 측정기](https://github.com/zoqxlstm7/Alcohol-Measurement): 알콜 측정 센서와 c#으로 알콜 수치를 측정하는 기능을 구현
 ## Unity 3D
-- [FirstWinger](https://github.com/zoqxlstm7/FirstWinger): 강의를 수강하며 정리해 본 멀티플레이 슈팅게임
+- [FirstWinger](https://github.com/zoqxlstm7/UnityStudy/tree/master/FirstWinger): 강의를 수강하며 정리해 본 멀티플레이 슈팅게임
 ## 전공 관련 정리 문서
 - [C# 키워드 정리](https://github.com/zoqxlstm7/CSharp_keyword): 자주 사용하지 않는 문법 표현이나 나중에 다시 보면 좋을 만한 C# 문법들을 정리
 - [운영체제](https://github.com/zoqxlstm7/CS/tree/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C): 운영체제 관련 정리
