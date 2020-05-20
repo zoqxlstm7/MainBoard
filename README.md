@@ -5,6 +5,7 @@ C, C++, C#을 사용할 줄 알며, 유니티 3D를 이용해 1인 게임을 개
 ### Game
 - [3D RPG 기능 구현](https://github.com/zoqxlstm7/Unity3D-Portfolio/tree/master/3D%20RPG): 유니티3D를 이용하여 기본적인 RPG의 기능들을 구현
 - [핵앤슬래시 장르 게임](https://github.com/zoqxlstm7/Unity3D-Portfolio/tree/master/Hack%20and%20Slash): 유니티3D를 이용한 핵앤슬래시 장르의 게임 개발
+- [Photon2Chat](https://github.com/zoqxlstm7/Unity3D-Portfolio/tree/master/Photon2Chat): Photon2를 활용하여 로비화면과 채팅방 시스템 구성
 ### Applications Program
 - [통합 관리 프로그램](https://github.com/zoqxlstm7/Integrated-Management): 현장에서 사용되는 모든 장비 프로그램의 버전 업데이트 및 config 정보 수정, 프로그램 교체 용도로 쓰기 위해 Winform으로 제작
 - [충돌방지 프로그램](https://github.com/zoqxlstm7/Collision-Prevention): 타워크레인의 충돌사고를 방지하기 위해 제작되었으며, 지자기/자이로센서와 지그비 모듈, 사운드 센서, processing을 사용하여 구현
