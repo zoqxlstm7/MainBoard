@@ -9,7 +9,7 @@ C, C++, C#을 사용할 줄 알며, 유니티 3D를 이용해 1인 게임을 개
 - [3D RPG 기능 구현](https://github.com/zoqxlstm7/Unity3D-Portfolio/tree/master/3D%20RPG): 유니티3D를 이용하여 기본적인 RPG의 기능들을 구현
 - [핵앤슬래시 장르 게임](https://github.com/zoqxlstm7/Unity3D-Portfolio/tree/master/Hack%20and%20Slash): 유니티3D를 이용한 핵앤슬래시 장르의 게임 개발
 ### Applications Program
-#### 2018.01 ~ 2019.5
+#### 2018.01 ~ 2019.05
 - [통합 관리 프로그램](https://github.com/zoqxlstm7/Integrated-Management): 현장에서 사용되는 모든 장비 프로그램의 버전 업데이트 및 config 정보 수정, 프로그램 교체 용도로 쓰기 위해 Winform으로 제작
 - [충돌방지 프로그램](https://github.com/zoqxlstm7/Collision-Prevention): 타워크레인의 충돌사고를 방지하기 위해 제작되었으며, 지자기/자이로센서와 지그비 모듈, 사운드 센서, processing을 사용하여 구현
 - [소음 측정 프로그램](https://github.com/zoqxlstm7/Noise-Measurement): 소음 측정 센서를 이용하여 c#으로 구현되었으며, 소음 측정 프로그램에 시리얼 통신으로 LED 전광판을 연동하여 측정되는 소음이 전광판에 노출되도록 구현
@@ -26,6 +26,7 @@ C, C++, C#을 사용할 줄 알며, 유니티 3D를 이용해 1인 게임을 개
 - [운영체제](https://github.com/zoqxlstm7/CS/tree/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C): 운영체제 정리
 - [C# 키워드 정리](https://github.com/zoqxlstm7/CSharp_keyword): 자주 사용하지 않는 문법 표현이나 나중에 다시 보면 좋을 만한 C# 문법들을 정리
 ### 스토어에 올려봤던 1인 개발 게임
+#### 2017.01 ~ 2017.11
 #### [클리쳐(Clicher) - 플레이 영상](https://blog.naver.com/zoqxlstm6/221420434051)
 <img src="./Image/clicher-Ingame.png" width="800px" height="600px"></img></br><br>
 #### [킹덤 디펜스 - 플레이 영상](https://blog.naver.com/zoqxlstm6/221420431103)
