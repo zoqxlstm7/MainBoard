@@ -3,7 +3,7 @@
 C, C++, C#을 사용할 줄 알며, 유니티 3D를 이용해 1인 게임을 개발해 유니티 Ads 광고와 구글 인앱 결제를 연동하여 플레이 스토어에 올려본 경험이 있습니다.</br> 전산학 지식, 알고리즘, 자료구조 및 유니티3D를 공부하며 역량을 키워가고 있는 게임 프로그래머 지망생입니다.
 ## Personal Experiences
 ### Game
-#### 2020.02
+#### 2020.02 ~
 - [Zombie War](https://github.com/zoqxlstm7/Unity3D-Portfolio/tree/master/ZombieWar): Photon Pun2를 활용하여 네트워크를 구성하고, 최대 4명까지 수용 가능한 방에 입장하여 좀비들을 물리치고, 보스를 격파하면 승리하는 멀티 슈팅 게임
 - [Photon2Chat](https://github.com/zoqxlstm7/Unity3D-Portfolio/tree/master/Photon2Chat): Photon Pun2를 활용하여 로비화면과 채팅방 시스템 구성
 - [3D RPG 기능 구현](https://github.com/zoqxlstm7/Unity3D-Portfolio/tree/master/3D%20RPG): 유니티3D를 이용하여 기본적인 RPG의 기능들을 구현
