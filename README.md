@@ -4,6 +4,7 @@ C, C++, C#을 사용할 줄 알며, 유니티 3D를 이용해 1인 게임을 개
 ## Personal Experiences
 ### Game
 #### 2020.02 ~
+- [Zombie Slayer](https://github.com/zoqxlstm7/Independent-Game/tree/master/ZombieSlayer): 여러 종류의 총기를 사용하여 좀비를 처치하는 모바일 싱글 슈팅 게임. 3스테이지마다 다른 특징을 가진 6종류의 좀비들이 등장하며, 5스테이지 마다 보스 좀비가 등장
 - [Zombie War](https://github.com/zoqxlstm7/Unity3D-Portfolio/tree/master/ZombieWar): Photon Pun2를 활용하여 네트워크를 구성하고, 최대 4명까지 수용 가능한 방에 입장하여 좀비들을 물리치고, 보스를 격파하면 승리하는 멀티 슈팅 게임
 - [Photon2Chat](https://github.com/zoqxlstm7/Unity3D-Portfolio/tree/master/Photon2Chat): Photon Pun2를 활용하여 로비화면과 채팅방 시스템 구성
 - [3D RPG 기능 구현](https://github.com/zoqxlstm7/Unity3D-Portfolio/tree/master/3D%20RPG): 유니티3D를 이용하여 기본적인 RPG의 기능들을 구현
