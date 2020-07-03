@@ -2,7 +2,7 @@
 ## Introduction
 C, C++, C#을 사용할 줄 알며, 유니티 3D를 이용해 1인 게임을 개발해 유니티 Ads 광고와 구글 인앱 결제를 연동하여 플레이 스토어에 올려본 경험이 있습니다.</br> 전산학 지식, 알고리즘, 자료구조 및 유니티3D를 공부하며 역량을 키워가고 있는 게임 프로그래머 지망생입니다.
 ## Personal Experiences
-### Game
+### Unity3D Games
 #### 2020.02 ~
 - [Zombie Slayer](https://github.com/zoqxlstm7/Independent-Game/tree/master/ZombieSlayer): 여러 종류의 총기를 사용하여 좀비를 처치하는 모바일 싱글 슈팅 게임. 3스테이지마다 다른 특징을 가진 6종류의 좀비들이 등장하며, 5스테이지 마다 보스 좀비가 등장
 - [Zombie War](https://github.com/zoqxlstm7/Unity3D-Portfolio/tree/master/ZombieWar): Photon Pun2를 활용하여 네트워크를 구성하고, 최대 4명까지 수용 가능한 방에 입장하여 좀비들을 물리치고, 보스를 격파하면 승리하는 멀티 슈팅 게임
@@ -18,22 +18,15 @@ C, C++, C#을 사용할 줄 알며, 유니티 3D를 이용해 1인 게임을 개
 - [CCTV 카메라 녹화 프로그램](https://github.com/zoqxlstm7/Camera-Record): 라즈베리파이 환경에서 동작했으며, CCTV 카메라를 제어하는 프로그램의 녹화 기능을 c#과 VLC를 이용하여 구현.
 - [카메라 등록 프로그램](https://github.com/zoqxlstm7/Camera-Register): HIKVISION API와 WinForm을 활용하여 CCTV 카메라가 활성화 중인지 인터넷 브라우저를 거치지않고 빠르게 확인하는 용도로 제작
 - [알콜 측정기](https://github.com/zoqxlstm7/Alcohol-Measurement): 알콜 측정 센서와 c#으로 알콜 수치를 측정하는 기능을 구현
-## Unity 3D
+### Release Experiences
+#### 2017.01 ~ 2017.11
+ - [스토어 출시 경험을 위해 제작해 보았던 게임 (구글, 원스토어)](https://github.com/zoqxlstm7/Independent-Game)
+## 정리 문서
 - [Photon2](https://github.com/zoqxlstm7/UnityStudy/tree/master/Photon2): Photon2을 이용한 기본적인 네트워크 구성 학습
 - [유니티 게임 데이터 저장방법](https://github.com/zoqxlstm7/UnityStudy/tree/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%80%EC%9E%A5%EB%B0%A9%EB%B2%95%EC%A0%95%EB%A6%AC): 유니티에서 사용가능한 저장방법 정리 (Json, Xml, 직렬화, ScriptableObject, 데이터베이스)
-- [FirstWinger](https://github.com/zoqxlstm7/UnityStudy/tree/master/FirstWinger): 강의를 수강하며 정리해 본 멀티플레이 슈팅게임
-## 전공 관련 정리 문서
 - [자료구조](https://github.com/zoqxlstm7/CS/tree/master/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0): 자료구조 정리
 - [운영체제](https://github.com/zoqxlstm7/CS/tree/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C): 운영체제 정리
 - [C# 키워드 정리](https://github.com/zoqxlstm7/CSharp_keyword): 자주 사용하지 않는 문법 표현이나 나중에 다시 보면 좋을 만한 C# 문법들을 정리
-### 스토어에 올려봤던 1인 개발 게임
-#### 2017.01 ~ 2017.11
-#### [클리쳐(Clicher) - 플레이 영상](https://blog.naver.com/zoqxlstm6/221420434051)
-<img src="./Image/clicher-Ingame.png" width="800px" height="600px"></img></br><br>
-#### [킹덤 디펜스 - 플레이 영상](https://blog.naver.com/zoqxlstm6/221420431103)
-<img src="./Image/kingdom-ingame.JPG" width="320px" height="480px"></img></br><br>
-#### [무작정 던전헤메기 - 플레이 영상](https://blog.naver.com/zoqxlstm6/221420427223)
-<img src="./Image/dunjeon-ingame.JPG" width="800px" height="600px"></img></br><br>
-#### [다크런 - 플레이 영상](https://blog.naver.com/zoqxlstm6/221420429175)
-<img src="./Image/darkrun-Ingame.JPG" width="800px" height="600px"></img>
+
+
 
