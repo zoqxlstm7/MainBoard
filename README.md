@@ -1,7 +1,8 @@
 # 홍온유
 ## Introduction
 C, C++, C#을 사용할 줄 알며, 유니티 3D를 이용해 1인 게임을 개발해 유니티 Ads 광고와 구글 인앱 결제를 연동하여 플레이 스토어에 올려본 경험이 있습니다.</br> 전산학 지식, 알고리즘, 자료구조 및 유니티3D를 공부하며 역량을 키워가고 있는 게임 프로그래머입니다.
-## Experiences
+
+## Personal Experiences
 ### 111퍼센트
 #### 2022.02 ~ 2023.03
 - [롤롤:다이스 히어로즈](https://blog.naver.com/zoqxlstm6/223235117004)
@@ -17,8 +18,6 @@ C, C++, C#을 사용할 줄 알며, 유니티 3D를 이용해 1인 게임을 개
     - 초기 개발부터 서비스 종료까지 개발 참여
     - In-Game 플레이 로직 개발 및 부가 시스템 개발
     - 출시 이후 업데이트 컨텐츠 개발 및 서비스 이슈 대응
-
-## Personal Experiences
 ### Unity3D Games
 #### 2020.02 ~ 2020.08
 - [Zombie Slayer](https://github.com/zoqxlstm7/Independent-Game/tree/master/ZombieSlayer): 여러 종류의 총기를 사용하여 좀비를 처치하는 모바일 싱글 슈팅 게임. 3스테이지마다 다른 특징을 가진 6종류의 좀비들이 등장하며, 5스테이지 마다 보스 좀비가 등장
