@@ -4,14 +4,14 @@ C, C++, C#을 사용할 줄 알며, 유니티 3D를 이용해 1인 게임을 개
 ## Experiences
 ### 111퍼센트
 #### 2022.02 ~ 2023.03
-- [롤롤:다이스 히어로즈](https://github.com/zoqxlstm7/Independent-Game/tree/master/ZombieSlayer)
+- [롤롤:다이스 히어로즈](https://blog.naver.com/zoqxlstm6/223235117004)
     - 랜덤다이스: 디펜스 IP를 활용한 오토 배틀 3D 게임
     - Unity3D 사용
     - 초기 개발부터 소프트 런칭까지 개발 참여
     - Out-Game 컨텐츠 개발 및 부가 시스템 개발
     - 소프트 런칭 이후 서비스 이슈 대응
 #### 2020.08 ~ 2021.11
-- [Alchemy Knight](https://github.com/zoqxlstm7/Independent-Game/tree/master/ZombieSlayer)
+- [Alchemy Knight](https://blog.naver.com/zoqxlstm6/223235122207)
     - 미드코어 3D RPG
     - Unity3D 사용
     - 초기 개발부터 서비스 종료까지 개발 참여
