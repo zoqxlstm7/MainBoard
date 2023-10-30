@@ -37,12 +37,3 @@ C, C++, C#을 사용할 줄 알며, 유니티 3D를 이용해 1인 게임을 개
 ### Release Experiences
 #### 2017.01 ~ 2017.11
  - [스토어 출시 경험을 위해 제작해 보았던 게임 (구글, 원스토어)](https://github.com/zoqxlstm7/Independent-Game)
-## 정리 문서
-- [Photon2](https://github.com/zoqxlstm7/UnityStudy/tree/master/Photon2): Photon2을 이용한 기본적인 네트워크 구성 학습
-- [유니티 게임 데이터 저장방법](https://github.com/zoqxlstm7/UnityStudy/tree/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%80%EC%9E%A5%EB%B0%A9%EB%B2%95%EC%A0%95%EB%A6%AC): 유니티에서 사용가능한 저장방법 정리 (Json, Xml, 직렬화, ScriptableObject, 데이터베이스)
-- [자료구조](https://github.com/zoqxlstm7/CS/tree/master/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0): 자료구조 정리
-- [운영체제](https://github.com/zoqxlstm7/CS/tree/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C): 운영체제 정리
-- [C# 키워드 정리](https://github.com/zoqxlstm7/CSharp_keyword): 자주 사용하지 않는 문법 표현이나 나중에 다시 보면 좋을 만한 C# 문법들을 정리
-
-
-
